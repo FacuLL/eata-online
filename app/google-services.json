@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010275147874",
+    "firebase_url": "https://eata-online.firebaseio.com",
+    "project_id": "eata-online",
+    "storage_bucket": "eata-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010275147874:android:7db453ffc07fc38132713b",
+        "android_client_info": {
+          "package_name": "com.EATA.EataOnline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010275147874-d0ltqnl51ldbiehork7cl3vdt16tijvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.EATA.EataOnline",
+            "certificate_hash": "f07a137af233f2840621510bc2c5d4fc96a8d8c7"
+          }
+        },
+        {
+          "client_id": "1010275147874-jauvcf201spkeu7mb00r9leao97nd569.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtlTGLrsuTksvtdOACH1ne5Q5IMHRuSHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010275147874-jauvcf201spkeu7mb00r9leao97nd569.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

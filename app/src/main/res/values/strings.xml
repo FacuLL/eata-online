@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Eata Online</string>
+    <string name="fondo_login">Fondo de Login</string>
+    <string name="logo">Logo de EataOnline</string>
+    <string name="facebook_app_id">218988746007062</string>
+    <string name="fb_login_protocol_scheme">fb218988746007062</string>
+
+    <string name="welcome">Bienvenido</string>
+    <string name="cancel_login">Se canceló la operación</string>
+    <string name="error_login">Ocurrió un error al ingresar</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="firebase_error_login">Error al iniciar sesión en Firebase</string>
+    <string name="hintChat">Escribe aqui tu mensaje</string>
+
+    <string name="play_button">Boton de play</string>
+    <string name="logout_text">Cerrar Sesion</string>
+    <string name="ad_text">Escuchanos!</string>
+    <string name="logo_img">Imagen Logo</string>
+    <string name="logAnon">Entrar anonimamente</string>
+
+    <string name="incomplete_msg">¡Debes escribir algo para enviar!</string>
+    <string name="anon_msg">¡Debes iniciar sesión para enviar mensajes!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
